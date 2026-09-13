@@ -274,6 +274,8 @@ Planned progression includes:
 
 ---
 
+<div align="center">
+
 ## 🙌 Thanks for Visiting!
 
 I'm continuously learning and building projects in **Machine Learning, Deep Learning, and Artificial Intelligence**.
@@ -281,3 +283,5 @@ I'm continuously learning and building projects in **Machine Learning, Deep Lear
 If you find this repository useful, consider giving it a ⭐!
 
 **Made with ❤️ by Arpit Kushwaha**
+
+</div>
