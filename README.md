@@ -274,6 +274,20 @@ Planned progression includes:
 
 ---
 
+## 📂 Repository Structure
+
+```text
+pytorch-classification-fundamentals/
+├── README.md
+├── multiclass_classification_blobs.ipynb
+├── binary_classification_circles_nonlinearity.ipynb
+├── helper_functions.py
+├── requirements.txt
+└── .gitignore
+```
+
+---
+
 <div align="center">
 
 ## 🙌 Thanks for Visiting!
